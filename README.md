@@ -1,24 +1,7 @@
-# README
+# Sofa Supply
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was created to assist the sales team to search for photos of specific couches that met a number of criteria.
 
-Things you may want to cover:
+* Rails backend as the API 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* React front in to easily and quickly interact with the API
